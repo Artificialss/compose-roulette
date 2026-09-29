@@ -49,7 +49,7 @@ publishing {
         pom {
             name.set("Compose Roulette")
             description.set("A spin-to-win roulette wheel for Compose Multiplatform. Pure Canvas, no images, no third-party libs.")
-            url.set("https://github.com/Artificialss/ComposeRoulette")
+            url.set("https://github.com/Artificialss/compose-roulette")
             licenses {
                 license {
                     name.set("MIT License")
@@ -64,9 +64,9 @@ publishing {
                 }
             }
             scm {
-                url.set("https://github.com/Artificialss/ComposeRoulette")
-                connection.set("scm:git:git://github.com/Artificialss/ComposeRoulette.git")
-                developerConnection.set("scm:git:ssh://git@github.com/Artificialss/ComposeRoulette.git")
+                url.set("https://github.com/Artificialss/compose-roulette")
+                connection.set("scm:git:git://github.com/Artificialss/compose-roulette.git")
+                developerConnection.set("scm:git:ssh://git@github.com/Artificialss/compose-roulette.git")
             }
         }
     }
