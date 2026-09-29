@@ -61,7 +61,7 @@ commonMain.dependencies {
 ### Maven Local
 
 ```bash
-git clone git@github.com:Artificialss/ComposeRoulette.git
+git clone git@github.com:Artificialss/compose-roulette.git
 cd ComposeRoulette
 ./gradlew :roulette:publishToMavenLocal
 ```
@@ -271,7 +271,7 @@ data class RouletteStyle(
 ## Run the Demo
 
 ```bash
-git clone git@github.com:Artificialss/ComposeRoulette.git
+git clone git@github.com:Artificialss/compose-roulette.git
 cd ComposeRoulette
 ./gradlew :demo:wasmJsBrowserDevelopmentRun
 ```
